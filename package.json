@@ -1,0 +1,23 @@
+{
+  "name": "entrega-sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgeleporace/Entrega-Sass.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgeleporace/Entrega-Sass/issues"
+  },
+  "homepage": "https://github.com/jorgeleporace/Entrega-Sass#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  }
+}
